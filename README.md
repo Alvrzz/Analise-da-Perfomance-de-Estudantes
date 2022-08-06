@@ -5,7 +5,7 @@ Neste **repositório** você encontrará uma analise de dados.
 
 #### 💎Atalho rápido:
 
-📁[Projeto](https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes/projeto)  
+📁[Projeto](https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes/tree/main/projeto)  
 
 #### :boom:Links úteis para **contato** e **interação:**
 
