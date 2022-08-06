@@ -5,6 +5,9 @@ Neste **repositório** você encontrará uma analise de dados.
 
 #### 💎Atalho rápido:
 
+
+⚠[Vizualização Do Projeto](https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes/blob/main/projeto/Projeto%20Desempenho%20Alunos.ipynb)⚠
+
 📁[Projeto](https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes/tree/main/projeto)  
 
 #### :boom:Links úteis para **contato** e **interação:**
