@@ -1,4 +1,4 @@
-# Projeto de Estudo: Analise da Performance de Estudantes
+# Projeto de Estudo: Analise da Performance de Estudantes com python!
 Este projeto inclui uma **análise** de **dados** da **data-base** de **desempenho do aluno**. A análise fornece um bom ponto para prever a nota final que um aluno pode receber com base em vários fatores, como tempo livre, educação dos pais e faltas.
 
 Neste **repositório** você encontrará uma analise de dados.
